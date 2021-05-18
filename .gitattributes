@@ -1,0 +1,4 @@
+*.txt text
+*.vcproj txt eol=crlf
+*.sh text eol=lf
+*.jpg binary
